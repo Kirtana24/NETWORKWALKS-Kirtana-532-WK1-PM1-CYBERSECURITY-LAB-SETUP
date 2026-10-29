@@ -54,13 +54,13 @@ The downloaded Kali Linux virtual machine archive was extracted on the Windows h
 
 These files are used by VirtualBox to configure and run the Kali Linux virtual machine.
 
-**📸 Screenshot: Extracted Kali Linux Folder — [Paste SS4 here]**
+**📸 Screenshot: Extracted Kali Linux Folder**
 
 <img width="876" height="82" alt="ss4" src="https://github.com/user-attachments/assets/12852288-94db-4b18-a941-dd638207af8b" />
 
 *The screenshot shows the folder created after extracting the downloaded Kali Linux virtual machine archive.*
 
-**📸 Screenshot: VirtualBox Machine and Virtual Disk Files — [Paste SS5 here]**
+**📸 Screenshot: VirtualBox Machine and Virtual Disk Files**
 
 <img width="872" height="117" alt="ss5" src="https://github.com/user-attachments/assets/10d2565b-932f-4e64-9804-2f23d5d5cdd8" />
 
@@ -74,7 +74,7 @@ The Kali Linux virtual machine was added to Oracle VirtualBox Manager. The virtu
 
 VirtualBox Manager provides options to configure the virtual machine's memory, processors, storage, display, and network adapter.
 
-**📸 Screenshot: Oracle VirtualBox Manager — [Paste SS3 here]**
+**📸 Screenshot: Oracle VirtualBox Manager**
 
 <img width="1600" height="851" alt="ss3" src="https://github.com/user-attachments/assets/a8e57283-3b9c-4102-a2ca-a88102b8d459" />
 
@@ -88,7 +88,7 @@ The network configuration interface was accessed through the Tools menu in Virtu
 
 This interface allows the creation and configuration of virtual networks used by virtual machines.
 
-**📸 Screenshot: VirtualBox Tools Menu — [Paste SS6 here]**
+**📸 Screenshot: VirtualBox Tools Menu**
 
 <img width="1600" height="849" alt="ss6" src="https://github.com/user-attachments/assets/8c691f07-a112-467c-87b1-ec3fa3cb2894" />
 
@@ -113,7 +113,7 @@ The network uses the required IPv4 prefix of `10.0.0.0/24`. DHCP was enabled, wh
 
 A NAT Network allows connected virtual machines to communicate with one another and access external networks through network address translation.
 
-**📸 Screenshot: NAT Network Configuration — [Paste SS7 here]**
+**📸 Screenshot: NAT Network Configuration**
 
 <img width="1600" height="848" alt="ss7" src="https://github.com/user-attachments/assets/a5561416-98e3-4e26-b0f4-ae3ae1f09204" />
 
@@ -138,7 +138,7 @@ The Kali Linux virtual machine's network adapter was configured to connect to th
 
 These settings allow the virtual machine to use the configured NAT Network.
 
-**📸 Screenshot: Kali Linux Network Adapter — [Paste SS8 here]**
+**📸 Screenshot: Kali Linux Network Adapter**
 
 <img width="1600" height="847" alt="ss8" src="https://github.com/user-attachments/assets/61effbd5-d38d-4156-b8c5-d02c7ffbabcb" />
 
@@ -152,7 +152,7 @@ The Kali Linux virtual machine was started successfully, and its graphical deskt
 
 Kali Linux provides a range of tools used for cybersecurity education, network analysis, vulnerability assessment, and authorised penetration testing.
 
-**📸 Screenshot: Kali Linux Desktop — [Paste SS1 here]**
+**📸 Screenshot: Kali Linux Desktop**
 
 <img width="1600" height="849" alt="ss1" src="https://github.com/user-attachments/assets/07909b83-a001-4350-94f1-49799f3d2ae5" />
 
@@ -166,7 +166,7 @@ Mozilla Firefox was opened inside Kali Linux, and Google was accessed during the
 
 This provided evidence that browser access was working when the screenshot was captured.
 
-**📸 Screenshot: Firefox in Kali Linux — [Paste SS2 here]**
+**📸 Screenshot: Firefox in Kali Linux**
 
 <img width="1600" height="848" alt="ss2" src="https://github.com/user-attachments/assets/589bb10c-c39c-464c-bd5e-f5cc98471cab" />
 
@@ -189,7 +189,7 @@ The connection editor provides options for configuring wired Ethernet settings, 
 | Subnet Mask | `255.255.255.0` |
 | Gateway | `10.0.0.1` |
 
-**📸 Screenshot: Wired Connection Settings — [Paste SS9 here]**
+**📸 Screenshot: Wired Connection Settings**
 
 <img width="1600" height="851" alt="ss9" src="https://github.com/user-attachments/assets/4fb193c1-c228-4949-9fcf-0c6e61a87738" />
 
