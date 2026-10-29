@@ -258,7 +258,7 @@ This virtual lab is intended for educational purposes and authorised cybersecuri
 | Week | 01 |
 | Project | Essentials of Cybersecurity & Penetration Testing |
 | Module | WK1-PM1 |
-| Tools | VirtualBox 7.2.22, Kali Linux 2026.3, 7-Zip and kali-linux-2026.3-virtualbox-amd64 |
+| Tools | kali-linux-2026.3-virtualbox-amd64 , VirtualBox-7.2.22-175245-Win |
 
 ---
 
