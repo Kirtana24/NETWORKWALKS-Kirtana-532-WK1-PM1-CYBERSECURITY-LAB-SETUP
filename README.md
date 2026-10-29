@@ -259,11 +259,3 @@ This virtual lab is intended for educational purposes and authorised cybersecuri
 | Tools | kali-linux-2026.3-virtualbox-amd64 , VirtualBox-7.2.22-175245-Win |
 
 ---
-
-<div align="center">
-
-### 🔐 Learn • Configure • Test • Secure
-
-**Week 1 Cybersecurity Lab Setup | WK1-PM1**
-
-</div>
