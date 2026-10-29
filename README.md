@@ -24,8 +24,6 @@
 - [🐉 Step 6: Starting Kali Linux](#-step-6-starting-kali-linux)
 - [🌍 Step 7: Testing Browser Access](#-step-7-testing-browser-access)
 - [🛜 Step 8: Inspecting Network Settings](#-step-8-inspecting-network-settings)
-- [📚 Learning Outcomes](#-learning-outcomes)
-- [🏁 Conclusion](#-conclusion)
 
 ---
 
