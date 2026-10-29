@@ -255,12 +255,10 @@ This virtual lab is intended for educational purposes and authorised cybersecuri
 
 | Field | Details |
 |---|---|
-| Program Name | Cybersecurity Internship |
 | Week | 01 |
 | Project | Essentials of Cybersecurity & Penetration Testing |
 | Module | WK1-PM1 |
-| Repository | GitHub |
-| Main Tools | Oracle VirtualBox and Kali Linux |
+| Tools | VirtualBox 7.2.22, Kali Linux 2026.3, 7-Zip and kali-linux-2026.3-virtualbox-amd64 |
 
 ---
 
