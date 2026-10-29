@@ -199,27 +199,97 @@ The required IP address and gateway should be verified against the active networ
 
 ---
 
-## 📚 Learning Outcomes
+## 🏗️ Project Organisation
 
-Through this project, I gained practical experience with:
+The project is organised into the following stages:
 
-- Extracting and configuring a virtual machine.
-- Using Oracle VirtualBox to run Kali Linux.
-- Understanding the purpose of `.vbox` and `.vdi` files.
-- Creating and configuring a NAT Network.
-- Connecting a virtual machine to a specified network.
-- Inspecting wired network configuration settings.
-- Testing browser access and documenting the setup process.
+1. **Preparation:** Downloading and extracting the Kali Linux virtual machine files.
+2. **Virtual Machine Setup:** Opening and running Kali Linux using Oracle VirtualBox.
+3. **Network Configuration:** Creating the `NatNetwork` with the required IPv4 subnet and connecting the Kali Linux network adapter.
+4. **Connectivity Check:** Opening Firefox and inspecting the network connection settings.
+5. **Documentation:** Recording the configuration process, screenshots, problems encountered, and learning outcomes.
+
+This organisation provides a clear record of the lab setup process and makes the configuration easier to review.
+
+---
+
+## 👤 Author
+
+**Kirtana Minoy**  
+Third Year — Computer Engineering  
+Roll No.: 532
+
+**Project:** Cybersecurity Lab Setup  
+**Week:** 01  
+**Project Module:** WK1-PM1
 
 ---
 
-## 🏁 Conclusion
+## 📌 Project Information
 
-This project provided practical experience in setting up a cybersecurity lab using Oracle VirtualBox and Kali Linux. The virtual machine was started successfully, and the required NAT Network was configured with the specified IPv4 prefix.
-
-The initial browser-access test also demonstrated connectivity at the time of capture. This setup establishes the foundation for further learning and authorised cybersecurity testing.
+| Field | Details |
+|---|---|
+| Program Name | Cybersecurity Internship |
+| Week | 01 |
+| Project | Essentials of Cybersecurity & Penetration Testing |
+| Module | WK1-PM1 |
+| Repository | GitHub |
+| Main Tools | Oracle VirtualBox and Kali Linux |
 
 ---
+
+## 🔐 Security and Ethical Use
+
+This virtual lab is intended for educational purposes and authorised cybersecurity testing.
+
+- Perform security testing only on systems you own or have explicit permission to test.
+- Keep lab configurations organised and document any changes.
+- Verify network settings before conducting practical exercises.
+- Use virtual machine snapshots as recovery points when available.
+
+---
+
+## 💡 What I Learned
+
+Through this project, I learned how to:
+
+### 1. Virtual Machine Management
+Understand the purpose of `.vbox` and `.vdi` files and run an existing Kali Linux virtual machine in Oracle VirtualBox.
+
+### 2. Virtual Networking
+Configure a NAT Network using the required `10.0.0.0/24` subnet and connect a virtual machine to it.
+
+### 3. IP Addressing
+Understand the relationship between an IPv4 address, subnet mask, prefix length, and default gateway.
+
+### 4. Connectivity Troubleshooting
+Inspect network adapter settings and investigate connectivity problems that occur after restarting a virtual machine.
+
+### 5. Technical Documentation
+Organise screenshots, explain configuration steps, and record problems and solutions in a GitHub README.
+
+### 6. Cybersecurity Lab Preparation
+Understand how a virtual lab provides a foundation for future cybersecurity learning and authorised security testing.
+
+---
+
+## 🏁 Final Summary
+
+This project introduced the practical process of preparing a cybersecurity lab using Oracle VirtualBox and Kali Linux. It provided hands-on experience with virtual machine management, NAT Network configuration, and basic network troubleshooting.
+
+The documented setup establishes a foundation for future cybersecurity exercises. Network connectivity and other required configurations should be verified before the lab is considered fully ready.
+---
+## Project Information
+
+| Field | Details |
+|---|---|
+| Project | Cybersecurity and Penetration Testing Lab Setup |
+| Organisation | NETWORKWALKS |
+| Week | 1 (WK1-PM1) |
+| Author | Kirtana Minoy |
+| Class | TY - COMP C |
+| Roll No. | 532 |
+| Tools | Oracle VirtualBox, Kali Linux, 7-Zip |
 
 <div align="center">
 
