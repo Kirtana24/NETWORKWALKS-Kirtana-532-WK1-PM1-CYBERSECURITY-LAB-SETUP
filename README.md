@@ -3,10 +3,7 @@
 # 🛡️ CYBERSECURITY LAB SETUP
 
 ### Week 1 — Essentials of Cybersecurity & Penetration Testing
-
-**VirtualBox • Kali Linux • Network Configuration**
-
-**Internship Project | WK1-PM1**
+Author: Kirtana Minoy
 
 </div>
 
