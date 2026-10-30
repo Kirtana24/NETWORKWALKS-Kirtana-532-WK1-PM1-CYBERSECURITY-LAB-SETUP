@@ -250,7 +250,7 @@ This virtual lab is intended for educational purposes and authorised cybersecuri
 
 | Field | Details |
 |---|---|
-| Week | 01 |
+| Author | Kirtana Minoy |
 | Project | Essentials of Cybersecurity & Penetration Testing |
 | Module | WK1-PM1 |
 | Tools | kali-linux-2026.3-virtualbox-amd64 , VirtualBox-7.2.22-175245-Win |
